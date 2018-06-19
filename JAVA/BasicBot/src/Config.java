@@ -23,7 +23,7 @@ public class Config {
 	/// 쓰기 파일 경로
 	public static String WriteDirectory = "c:\\starcraft\\bwapi-data\\write\\";		
 
-	// BasicBot 1.1 Patch End //////////////////////////////////////////////////
+	// BasicBot 1.1 Patch End /////////////////////////////////////////////////
 
 	
 
