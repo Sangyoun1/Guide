@@ -183,7 +183,7 @@ public class MyBotModule extends DefaultBWListener {
 		// hyo test
 		
 		// 게임 화면에 표시
-		Broodwar.printf("Hello Starcraft game screen hyo22 and heony!!!!!!!!!!");
+		Broodwar.printf("Hello Starcraft game screen hyo22 and heony22!!!!!!!!!!");
 		
 		// BasicBot 1.1 Patch Start ////////////////////////////////////////////////
 		// 타임아웃 패배, 자동 패배 체크 추가
